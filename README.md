@@ -10,7 +10,7 @@
 
 ## 💻 My Tech Stack:
 
-[![PHP, JavaScript, HTML, CSS, CSharp,bootstrap](https://skillicons.dev/icons?i=php,js,html,css,cs,bootstrap)](https://skillicons.dev)
+[![PHP, larevel, JavaScript, HTML, CSS, CSharp,bootstrap](https://skillicons.dev/icons?i=php,laravel,js,html,css,cs,bootstrap)](https://skillicons.dev)
 
 
 </div>
