@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Fahmi!](assets/header.gif)](https://github.com/miiiwdy)
+[![Hello World, I'm Fahmi!](https://github.com/kshyun28/kshyun28/blob/main/assets/header.gif)](https://github.com/miiiwdy)
 
 </div>
 
