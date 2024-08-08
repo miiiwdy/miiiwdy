@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Hello World, I'm Fahmi!](/header.gif)](https://github.com/miiiwdy)
-
 </div>
 
 - 🔭 I’m currently working at [P33R Finance](https://www.linkedin.com/company/p33r-finance/) where we were [incubated by Tenity](https://www.linkedin.com/posts/p33r-finance_tenity-invests-in-13-disruptive-early-stage-activity-7118550943268294656-cH__?utm_source=share&utm_medium=member_desktop) and selected for [AWS Startups Build Accelerator 2023](https://www.linkedin.com/posts/p33r-finance_p33r-awsbuildaccelerator-activity-7121072561857208320-U9f-?utm_source=share&utm_medium=member_desktop).
