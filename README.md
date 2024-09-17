@@ -6,8 +6,6 @@
 
 ![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Beginner+Frontend+Developer;I+am+proficient+in+Frontend;I+am+Web+Developer)](https://programmerdatch.netlify.app/)
-
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
