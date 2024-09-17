@@ -10,7 +10,7 @@
 
 ## 💻 My Tech Stack:
 
-[![PHP, larevel, JavaScript, jquery, HTML, CSS, CSharp,bootstrap,mysql,supabase](https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,cs,bootstrap,mysql,supabase)](https://skillicons.dev)
+[![PHP, Laravel, JavaScript, jQuery, HTML, CSS, CSharp,Bootstrap,MySql,Supabase,AlpineJS,NodeJS,PostgreSQL,Python](https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,cs,bootstrap,mysql,supabase,alpinejs,nodejs,postgres,py)](https://skillicons.dev)
 
 
 </div>
