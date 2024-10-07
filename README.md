@@ -9,17 +9,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=miiiwdy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miiiwdy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-</div>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -38,3 +27,15 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 </div>
+
+---
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  <div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=miiiwdy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miiiwdy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+</details>
