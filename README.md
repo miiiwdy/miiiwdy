@@ -1,6 +1,7 @@
 <div align="center">
   
-  ### Hi there, I'm Fahmi! 👋
+  ### Hey There! 👋
+  **I'm Fahmi** - I'm a junior frontend developer, designer, moderator, and high school student based in the Depok. I'm interested in development, moderation, and building     thriving online communities. I work on random projects in my free time.
   
   [![](https://visitcount.itsvg.in/api?id=miiiwdy&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
   
