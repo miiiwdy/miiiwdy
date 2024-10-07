@@ -8,9 +8,8 @@
 </div>
 
 ---
-<div align="center">
+
 ### <img src="https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg" width="20" height="20" /> Languages and Tools
-</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
