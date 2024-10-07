@@ -9,7 +9,7 @@
 
 ---
 
-### ![Supports Commands](https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg) Languages and Tools
+### <img src="https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg" width="50" height="50" /> Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
