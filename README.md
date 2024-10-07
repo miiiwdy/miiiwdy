@@ -45,14 +45,6 @@
 
 </div>
 
-### 💡 Fun Facts
-
-- 🔭 I’m currently working on expanding my backend skills.
-- 🌱 I’m learning more about cloud services and API integration.
-- ⚡ I enjoy creating user-friendly, accessible, and responsive web applications.
-
----
-
 <div align="center">
 
   _Thank you for visiting my profile!_
