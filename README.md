@@ -20,19 +20,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<div align="left">
-
-[![Email](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg)](https://discord.com/users/792447338852384788)
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/miiiwdy)
-[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/miiiwdy)
-[![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://www.x.com/miiiwdy)
-
-</div>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="center">
