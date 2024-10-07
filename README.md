@@ -4,7 +4,7 @@
 
 <div align="left">
 
-[![](https://visitcount.itsvg.in/api?id=miiiwdy&icon=8&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=miiiwdy&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
