@@ -9,7 +9,10 @@
 
 ---
 
-### <img src="https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg" width="25" height="25" /> Languages and Tools
+### <span style="vertical-align: middle; display: inline-block;">
+<img src="https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg" width="25" height="25" style="vertical-align: middle;" /> 
+</span> Languages and Tools
+
 
 <p align="center">
   <a href="https://skillicons.dev">
