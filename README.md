@@ -45,15 +45,6 @@
 
 </div>
 
----
-
-### 📝 Latest Projects
-
-- **EasyCashier** - A simple and efficient cashier application built with Laravel.
-- **Discord Bot** - A customizable Discord bot with features like RPC and custom commands.
-  
----
-
 ### 💡 Fun Facts
 
 - 🔭 I’m currently working on expanding my backend skills.
