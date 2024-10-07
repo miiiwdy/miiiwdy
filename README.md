@@ -9,10 +9,7 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg" width="25" height="25" />
-  <span style="margin-left: 5px;">Languages and Tools</span>
-</div>
+### <img src="https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg" width="25" height="25" style="vertical-align: middle;" /> <span style="line-height: 25px;">Languages and Tools</span>
 
 
 <p align="center">
