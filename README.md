@@ -3,8 +3,8 @@
   ### Hey There! 👋
   **I'm Fahmi** - I'm a junior frontend developer, designer, moderator, and high school student based in the Depok. I'm interested in development, moderation, and building     thriving online communities. I work on random projects in my free time.
   
-  [![](https://visitcount.itsvg.in/api?id=miiiwdy&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
-  [![Gmail](https://img.shields.io/badge/fahmiwidyaa@gmail.com-30302f?style=flat&logo=gmail&logoColor=white)](mailto:fahmiwidyaa@gmail.com)<br>
+  [![](https://visitcount.itsvg.in/api?id=miiiwdy&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)<br>
+  [![Gmail](https://img.shields.io/badge/fahmiwidyaa@gmail.com-30302f?style=flat&logo=gmail&logoColor=white)](mailto:fahmiwidyaa@gmail.com)
   [![LinkedIn badge](https://img.shields.io/badge/LinkedIn_Profile-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahmi-widya-purnama-99425b290/)<br>
   
 </div>
