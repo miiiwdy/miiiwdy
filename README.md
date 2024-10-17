@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,cs,html,js,nodejs,jquery,laravel,postgres" />
+    <img src="https://skillicons.dev/icons?i=figma,express,html,js,nodejs,jquery,laravel,postgres" />
   </a>
 </p>
 </div>
