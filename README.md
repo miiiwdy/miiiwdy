@@ -5,7 +5,7 @@
   
   [![](https://visitcount.itsvg.in/api?id=miiiwdy&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)<br>
   [![Gmail](https://img.shields.io/badge/fahmiwidyaa@gmail.com-30302f?style=flat&logo=gmail&logoColor=white)](mailto:fahmiwidyaa@gmail.com)
-  [![Gmail](https://img.shields.io/badge/Personal_Website-30302f?style=flat&logo=GoogleChrome&logoColor=white)](https://sneevilz.my.id)
+  [![Gmail](https://img.shields.io/badge/Personal_Website-30302f?style=flat&logo=GoogleChrome&logoColor=white)](https://miiiwdy.xyz)
   [![LinkedIn badge](https://img.shields.io/badge/LinkedIn_Profile-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahmiwidyapurnama)<br>
   
 </div>
