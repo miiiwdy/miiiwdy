@@ -9,7 +9,7 @@
   [![LinkedIn badge](https://img.shields.io/badge/LinkedIn_Profile-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahmiwidyapurnama)<br>
   
 </div>
-
+ 
 ---
 
 ### <img src="https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg" width="25" height="25" style="vertical-align: center;" /> <span style="vertical-align: center;">Languages and Tools</span>
