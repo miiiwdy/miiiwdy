@@ -3,7 +3,7 @@
   ### Hey There! 👋
   **I'm Fahmi** - I'm a junior frontend developer, designer, moderator, and high school student based in the Depok, Indonesia. I'm interested in development, moderation, and building     thriving online communities. I work on random projects in my free time.  
    
-  [![](![](https://komarev.com/ghpvc/?username=miiiwdy&color=green))](https://komarev.com)<br>
+  [![](https://komarev.com/ghpvc/?username=miiiwdy&style=plastic&base=15320&abbreviated=true&color=green&label=Profile+Views)](https://komarev.com)<br>
   [![Gmail](https://img.shields.io/badge/fahmiwidyaa@gmail.com-30302f?style=flat&logo=gmail&logoColor=white)](mailto:fahmiwidyaa@gmail.com)
   [![Gmail](https://img.shields.io/badge/Personal_Website-30302f?style=flat&logo=GoogleChrome&logoColor=white)](https://miiiwdy.xyz)
   [![LinkedIn badge](https://img.shields.io/badge/LinkedIn_Profile-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahmiwidyapurnama)<br>
