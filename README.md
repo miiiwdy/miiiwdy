@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![Playing](https://img.shields.io/badge/Playing-Vscode)
+![Playing](https://img.shields.io/badge/any_text-you_like-blue)
 ![VSCode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/792447338852384788&label=Editing%20di%20VSCode)
 [![Spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/792447338852384788&label=Musik%20Favorit)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
