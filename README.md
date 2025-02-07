@@ -25,9 +25,9 @@
 
 <div align="center">
 
-![Playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/792447338852384788&label=Sedang%20Main)
-![VSCode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/792447338852384788&label=Editing%20di%20VSCode)
-[![Spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/792447338852384788&label=Musik%20Favorit)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+![Playing](https://img.shields.io/badge/Playing-Vscode)
+![VSCode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/792447338852384788&label=Editing%20di%20VSCode)
+[![Spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/792447338852384788&label=Musik%20Favorit)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 
 </div>
