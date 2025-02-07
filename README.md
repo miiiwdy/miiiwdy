@@ -27,7 +27,7 @@
 
 ![Playing](https://img.shields.io/badge/Playing-vscode-green)
 ![VSCode](https://img.shields.io/badge/Coding-on_line_1337-green)
-[![Spotify](https://img.shields.io/badge/Listening-cosmic_a7x-green)
+![Spotify](https://img.shields.io/badge/Listening-cosmic_a7x-green)
 
 
 </div>
