@@ -25,9 +25,9 @@
 
 <div align="center">
 
-![Playing](https://img.shields.io/badge/any_text-you_like-blue)
-![VSCode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/792447338852384788&label=Editing%20di%20VSCode)
-[![Spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/792447338852384788&label=Musik%20Favorit)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+![Playing](https://img.shields.io/badge/Playing-vscode-green)
+![VSCode](https://img.shields.io/badge/Coding-on_line_1337-green)
+[![Spotify](https://img.shields.io/badge/Listening-cosmic_a7x-green)
 
 
 </div>
