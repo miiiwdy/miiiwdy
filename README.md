@@ -1,7 +1,7 @@
 <div align="center">
   
   ### Hey There! 👋
-  **I'm Fahmi** - I'm a junior fullstack developer, designer, moderator, and high school student based in the Depok, Indonesia. I'm interested in development, moderation, and building     thriving online communities. I work on random projects in my free time.  
+  **I'm Fahmi** - I'm a junior fullstack developer, designer, and high school student based in Indonesia. I'm interested in development, moderation, and building     thriving online communities. I work on random projects in my free time.  
    
   [![](https://komarev.com/ghpvc/?username=miiiwdy&style=plastic&base=15320&abbreviated=true&color=green&label=Profile+Views)](https://komarev.com)<br>
   [![Personal Website](https://img.shields.io/badge/Personal_Website-30302f?style=flat&logo=GoogleChrome&logoColor=white)](https://miiiwdy.xyz)
